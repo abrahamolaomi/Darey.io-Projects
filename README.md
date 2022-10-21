@@ -1,2 +1,3 @@
-# Project1
-For project one
+# WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
+
+Starting Apache Server
