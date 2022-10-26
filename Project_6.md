@@ -8,7 +8,7 @@
 <img width="1377" alt="Screenshot 2022-10-23 at 15 07 36" src="https://user-images.githubusercontent.com/58548431/197691198-98253f16-7291-438b-9dc7-8b8b82a30e5b.png">
 
 
-## Database Connection Between Web-Server and Database Server
+## Database Connection Between Web-Server and Database-Server
 <img width="1377" alt="Screenshot 2022-10-23 at 15 21 37" src="https://user-images.githubusercontent.com/58548431/197691446-f31207db-a0e6-4f49-b02b-bf9013d64bee.png">
 
 
